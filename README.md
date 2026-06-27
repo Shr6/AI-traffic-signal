@@ -60,4 +60,4 @@ It holds a green phase for a minimum of 5 seconds and a maximum of 12 seconds. I
 
 ## Author
 
-Built with Python and Pygame.
+Built with Python and Pygame by Shri6.
