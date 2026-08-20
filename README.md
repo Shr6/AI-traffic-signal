@@ -58,6 +58,13 @@ The AdaptiveController scores each direction using queue size and average wait t
 
 It holds a green phase for a minimum of 5 seconds and a maximum of 12 seconds. If the opposing direction scores more than 2 points higher after the minimum time, it switches early. Yellow phases last 2 seconds between transitions.
 
+
+
+https://github.com/user-attachments/assets/805939b7-2dda-4f7a-9153-3cce8fd9d7bc
+
+
+
+
 ---
 
 ## Author
