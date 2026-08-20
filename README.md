@@ -1,7 +1,9 @@
+
 # AI Traffic Simulator
 
 A multi-vehicle traffic junction simulator built with Python and Pygame. Vehicles spawn from all four directions and navigate a crossroad controlled by an adaptive AI signal controller that adjusts phase timing based on real-time queue lengths and wait times.
 
+<img width="1203" height="848" alt="Screenshot 2026-08-20 071641" src="https://github.com/user-attachments/assets/49191152-c51e-4d35-83ae-c017e12eea9a" />
 ---
 
 ## Features
